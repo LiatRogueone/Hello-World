@@ -1,3 +1,3 @@
 # Hello-World! 
-Let's make Robot and have some fun.
+Let's have some fun by learning GitHub basic instructions. 
 How are you doing? 
